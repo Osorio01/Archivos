@@ -1,0 +1,292 @@
+*{
+  margin: 0 !important;
+}
+.fondo1{
+  background:linear-gradient(90deg,rgba(0,0,0,.5),rgba(0,0,0,.2)),url("../images/Fondo1.jpg")no-repeat center;
+  	-webkti-background-size:cover;
+  	-moz-background-size:cover;
+  	-o-background-size:cover;
+	background-size:cover;
+  background-attachment: fixed;
+	background-position: center;
+	position: relative;
+	width: 100%;
+	height: 450px;
+	border-bottom: solid white 4px;
+	padding-right: 5%;
+	padding-left: 5%;
+}
+.fondo2{
+  background:linear-gradient(9deg,rgba(109,3,3,1),rgba(53,3,3,1));
+  	-webkti-background-size:cover;
+  	-moz-background-size:cover;
+  	-o-background-size:cover;
+	background-size:cover;
+	width: 100%;
+	height: 450px;
+	border-bottom: solid white 4px;
+	padding-right: 5%;
+	padding-left: 5%;
+  padding-top: 2%;
+}
+.fondo3{
+  background-color: #000000;
+  	-webkti-background-size:cover;
+  	-moz-background-size:cover;
+  	-o-background-size:cover;
+	background-size:cover;
+	width: 100%;
+	height: 210px;
+	border-bottom: solid white 4px;
+	padding-right: 5%;
+	padding-left: 5%;
+  padding-top: 21px;
+}
+.fondo4{
+  background:linear-gradient(90deg,rgba(0,0,0,.9),rgba(0,0,0,.0)),url("../Images/Fondo4.jpg")no-repeat center;
+    -webkti-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+  background-size:cover;
+  background-attachment: fixed;
+	background-position: center;
+	position: relative;
+  width: 100%;
+  height: 460px;
+  border-bottom: solid white 4px;
+  padding-right: 5%;
+  padding-left: 5%;
+}
+.fondo5{
+  background:linear-gradient(90deg,rgba(4,0,45,1),rgba(88,0,0,1));
+    -webkti-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+  background-size:cover;
+  width: 100%;
+  height: 120px;
+  border-bottom: solid white 4px;
+  padding-right: 5%;
+  padding-left: 5%;
+  padding-top: 21px;
+}
+.fondo6{
+  background-color: #8c0000;
+    -webkti-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+  background-size:cover;
+  width: 100%;
+  height: 100s0px;
+  border-bottom: solid white 4px;
+  padding-right: 5%;
+  padding-left: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.fondo7{
+  background:linear-gradient(90deg,rgba(0,0,0,.8),rgba(0,0,0,.3)),url("../images/Fondo8.jpg")no-repeat center;
+    -webkti-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+  background-size:cover;
+  width: 100%;
+  height: 550px;
+  border-bottom: solid white 4px;
+  padding-right: 5%;
+  padding-left: 5%;
+  padding-top: 3%;
+}
+.fondo8{
+  background-color: #343a40;
+    -webkti-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+  background-size:cover;
+  width: 100%;
+  height: 550px;
+  border-bottom: solid white 4px;
+  padding-right: 5%;
+  padding-left: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.fondo9{
+  background:linear-gradient(90deg,rgba(134,0,0,1),rgba(35,0,0,1));
+    -webkti-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+  background-size:cover;
+  width: 100%;
+  height: 120px;
+  border-bottom: solid white 4px;
+  padding-right: 5%;
+  padding-left: 5%;
+  padding-top: 21px;
+}
+.fondo10{
+  background:linear-gradient(90deg,rgba(0,0,0,.6),rgba(0,0,0,.2)),url("../images/Fondo7.jpg")no-repeat center;
+    -webkti-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+  background-size:cover;
+  width: 100%;
+  height: 500px;
+  border-bottom: solid white 4px;
+  padding-right: 5%;
+  padding-left: 5%;
+}
+.fondo11{
+  background:linear-gradient(90deg,rgba(0,0,0,1),rgba(2,71,138,1));
+    -webkti-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+  background-size:cover;
+  width: 100%;
+  height: 100px;
+  border-bottom: solid white 4px;
+  padding-right: 5%;
+  padding-left: 5%;
+  padding-top: 10px;
+}
+.fondo12{
+  background:linear-gradient(90deg,rgba(21,87,36,1),rgba(21,87,36,1));
+    -webkti-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+  background-size:cover;
+  width: 100%;
+  height: 700px;
+  border-bottom: solid white 4px;
+  padding-right: 5%;
+  padding-left: 5%;
+  padding-top: 10px;
+}
+.borde1{
+  border-bottom: solid white 2px;
+}
+.borde2{
+  border-right: solid white 2px;
+}
+.borde3{
+  border-right: solid white 2px;
+  border-left: solid white 2px;
+}
+.borde4{
+  border-bottom: solid red 2px;
+}
+.borde5{
+  border-left: solid white 2px;
+}
+.fondo-color{
+  background-color: rgba(0,0,0,.35)
+}
+.edicion{
+  font-size: 26px;
+  font-family: monospace;
+  color: #FFFFFF;
+}
+.edicion1{
+  font-size: 46px;
+  font-family: monospace;
+  color: #FFFFFF;
+  text-decoration: underline;
+}
+.edicion2{
+  font-size: 28px;
+  font-family: monospace;
+  color: #999999;
+}
+.edicion3{
+  font-size: 42px;
+  font-family: monospace;
+  color: #FFFFFF;
+  text-decoration: underline;
+  text-align: center;
+}
+.edicion4{
+  font-size: 20px;
+  font-family: monospace;
+  color: #999999;
+  text-align: center;
+}
+.edicion5{
+  font-size: 20px;
+  font-family: monospace;
+  color: #FFFFFF;
+  text-align: center;
+}
+.edicion6{
+  font-size: 16px;
+  font-family: monospace;
+  color: #666666;
+}
+.edicion7{
+  font-size: 20px;
+  font-family: monospace;
+  color: #FFFFFF;
+}
+.edicion8{
+  width: 470px;
+}
+.lugar{
+  text-align: center;
+}
+.lugar1{
+  padding-top: 180px;
+}
+.lugar2{
+  padding-top: 30px;
+}
+.lugar3{
+  padding-top: 15px;
+}
+.lugar4{
+  text-align: right;
+}
+.lugar5{
+  padding-top: 205px;
+}
+.fondocolor1{
+  transition: 1s;
+}
+.fondocolor1:hover{
+  background-color: #000000cc;
+}
+.fondocolor2{
+  background:linear-gradient(90deg,rgba(0,0,0,.9),rgba(0,0,0,.7));
+}
+header .letras{
+    margin-top: 0 !important;
+}
+header .animacion1{
+    font-size: 75px;
+    font-family: monospace;
+    text-decoration: underline;
+    text-align: left;
+    color: #FFFFFF;
+    padding-top: 12%;
+    position: relative;
+    animation: animacion1;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+@keyframes animacion1{
+  0%{left: -500px;}
+  100%{left: 0px;}
+}
+header .animacion2{
+  font-size: 45px;
+  font-family: monospace;
+  text-align: right;
+  color: #FFFFFF;
+  padding-top: 2%;
+  position: relative;
+  animation: animacion2;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+}
+@keyframes animacion2 {
+0%{left: -500px;}
+100%{left: 0px;}
+}

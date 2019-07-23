@@ -1,0 +1,73 @@
+*{
+  margin: 0 !important;
+}
+.Fondo1{
+  background:linear-gradient(100deg,rgba(0,0,0,.8),rgba(0,0,0,.4)),url("../img/Fondo3.jpg")no-repeat center;
+    -webkti-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+  background-size:cover;
+  width: 100%;
+  height: 500px;
+  border-bottom: solid gray 4px;
+  padding-right: 6%;
+  padding-left: 6%;
+}
+.Fondo2{
+  background-color: #333333;
+    -webkti-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+  background-size:cover;
+  width: 100%;
+  height: 350px;
+  border-bottom: solid gray 4px;
+  padding-right: 6%;
+  padding-left: 6%;
+}
+.edicion1{
+  font-size: 30px;
+  color: #FFFFFF;
+  font-family: Arial;
+}
+.edicion2{
+  font-size: 66px;
+  color: #999999;
+  font-family: Arial;
+}
+.edicion3{
+  font-size: 48px;
+  color: #666666;
+}
+.centrar{
+  text-align: center;
+}
+.borde1{
+  border-left: solid gray 2px;
+  border-right: solid gray 2px;
+}
+.borde2{
+  border-right: solid gray 2px;
+}
+.borde3{
+  border-bottom: solid white 2px;
+}
+.fondomenu{
+  background-color: #000000;
+}
+.fondomenu1{
+  background: #000000;
+}
+.fondomenu1:hover{
+  background-color: #666666;
+  transition: 1s;
+}
+.lugar1{
+  padding-top: 200px;
+}
+.lugar2{
+  padding-top: 130px
+}
+.subrayado{
+  text-decoration: underline;
+}
